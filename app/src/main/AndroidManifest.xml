@@ -12,7 +12,7 @@
         android:theme="@style/Theme.Placemaker"
         tools:targetApi="31">
         <activity
-            android:name=".MainActivity"
+            android:name="ie.wit.placemaker.activities.PlacemarkActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
